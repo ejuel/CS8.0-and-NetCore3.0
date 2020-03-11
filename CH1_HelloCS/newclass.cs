@@ -1,6 +1,6 @@
-﻿using System;
+using System;
 
-namespace CH1_HelloCS
+namespace CH1
 {
     class Program
     {
