@@ -7,6 +7,7 @@ namespace CH1_HelloCS
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            int a;
         }
     }
 }
