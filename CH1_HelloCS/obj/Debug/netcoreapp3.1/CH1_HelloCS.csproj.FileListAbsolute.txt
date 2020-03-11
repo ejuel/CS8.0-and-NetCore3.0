@@ -1,0 +1,11 @@
+C:\Users\zeke2\Documents\GitHub\CS8.0-and-NetCore3.0\CH1_HelloCS\bin\Debug\netcoreapp3.1\CH1_HelloCS.exe
+C:\Users\zeke2\Documents\GitHub\CS8.0-and-NetCore3.0\CH1_HelloCS\bin\Debug\netcoreapp3.1\CH1_HelloCS.deps.json
+C:\Users\zeke2\Documents\GitHub\CS8.0-and-NetCore3.0\CH1_HelloCS\bin\Debug\netcoreapp3.1\CH1_HelloCS.runtimeconfig.json
+C:\Users\zeke2\Documents\GitHub\CS8.0-and-NetCore3.0\CH1_HelloCS\bin\Debug\netcoreapp3.1\CH1_HelloCS.runtimeconfig.dev.json
+C:\Users\zeke2\Documents\GitHub\CS8.0-and-NetCore3.0\CH1_HelloCS\bin\Debug\netcoreapp3.1\CH1_HelloCS.dll
+C:\Users\zeke2\Documents\GitHub\CS8.0-and-NetCore3.0\CH1_HelloCS\bin\Debug\netcoreapp3.1\CH1_HelloCS.pdb
+C:\Users\zeke2\Documents\GitHub\CS8.0-and-NetCore3.0\CH1_HelloCS\obj\Debug\netcoreapp3.1\CH1_HelloCS.csprojAssemblyReference.cache
+C:\Users\zeke2\Documents\GitHub\CS8.0-and-NetCore3.0\CH1_HelloCS\obj\Debug\netcoreapp3.1\CH1_HelloCS.AssemblyInfoInputs.cache
+C:\Users\zeke2\Documents\GitHub\CS8.0-and-NetCore3.0\CH1_HelloCS\obj\Debug\netcoreapp3.1\CH1_HelloCS.AssemblyInfo.cs
+C:\Users\zeke2\Documents\GitHub\CS8.0-and-NetCore3.0\CH1_HelloCS\obj\Debug\netcoreapp3.1\CH1_HelloCS.dll
+C:\Users\zeke2\Documents\GitHub\CS8.0-and-NetCore3.0\CH1_HelloCS\obj\Debug\netcoreapp3.1\CH1_HelloCS.pdb

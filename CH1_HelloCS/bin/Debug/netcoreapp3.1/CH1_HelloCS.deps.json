@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CH1_HelloCS/1.0.0": {
+        "runtime": {
+          "CH1_HelloCS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CH1_HelloCS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
